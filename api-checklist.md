@@ -1,4 +1,4 @@
-# API-tude Checklist
+# API Checklist
 
 ## 1. Design & Consistency
 
